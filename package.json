@@ -102,7 +102,7 @@
 		"@jlengstorf/get-share-image": "^0.8.0",
 		"@tailwindcss/typography": "^0.5.9",
 		"@toycode/markdown-it-class": "^1.2.4",
-		"canvas": "^2.11.0",
+		"canvas": "^3.0.0",
 		"clean-css": "^5.3.2",
 		"core-js": "^3.29.0",
 		"css-minimizer-webpack-plugin": "^1.2.0",
