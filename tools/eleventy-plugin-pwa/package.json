@@ -34,7 +34,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "shimmer": "^1.2.1",
-    "workbox-build": "^4.3.0"
+    "workbox-build": "^7.4.0"
   },
   "deprecated": false,
   "description": "An Eleventy plugin to generate service worker for PWA using Google Workbox",
